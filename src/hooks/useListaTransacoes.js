@@ -15,3 +15,8 @@ export default function useListaTransacoes() {
 
   return [transacoes, setTransacoes];
 }
+
+// Utilizar o renderHook para renderizar hooks fora de componentes React;
+// Testar hooks do React utilizando o renderHook;
+// Testar hooks customizados;
+// Utilizar o act para lidar com alterações de estados nos testes.
